@@ -7,4 +7,3 @@ class CreateActors < ActiveRecord::Migration
     end
   end
 end
-   
